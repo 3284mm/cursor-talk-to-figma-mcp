@@ -671,6 +671,7 @@ server.tool(
 );
 
 // Define design strategy prompt
+//test 
 server.prompt(
   "design_strategy",
   "Best practices for working with Figma designs",
